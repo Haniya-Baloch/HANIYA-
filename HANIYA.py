@@ -1,3 +1,3 @@
-from HANIYA1 import main
+from HANIYA import main
 main()
 
